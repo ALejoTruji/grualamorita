@@ -1,30 +1,33 @@
-stiles css
-
 /* Estilo básico para el cuerpo */
 body {
-    background-color: #5b5959;
-    font-family: 'Roboto', sans-serif;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-  }
-  
-  /* Encabezado */
-  h1 {
-    font-size: 2.5rem;
-    color: #161718;
-    margin-top: 30px;
-  }
+  background-color: #5f5c5c; /* Fondo gris claro */
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
 
-  h2 {
-    font-size: 1.5rem;
-    color: #eef0f3;
-    margin-top: 20px;
-  }
+/* Encabezado h1 */
+h1 {
+  font-size: 2.5rem;
+  color: #fff; /* Texto blanco */
+  font-weight: bold; /* Negrita */
+  margin-top: 30px;
+  text-align: center; /* Centrado */
+}
+
+/* Encabezado h2 */
+h2 {
+  font-size: 1.5rem;
+  color: #fff; /* Texto blanco */
+  font-weight: bold; /* Negrita */
+  margin-top: 20px;
+  text-align: center; /* Centrado */
+}
 
   p {
     font-size: 1rem;          /* Tamaño de fuente */
-    color: #000000;           /* Color negro */
+    color: #bcbaba;           /* Color negro */
     font-weight: bold;        /* Establecer texto en negrita */
     margin-top: 20px;         /* Espacio superior */
 }
